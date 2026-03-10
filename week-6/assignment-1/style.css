@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+.top h1{
+    font-size: 3rem;
+}
+.top{
+    height:280px;
+    padding: 80px;
+    
+    background-color:aquamarine;
+
+}
+.top a{
+    text-decoration: none;
+    background-color: blue;
+    color:white;
+}
+.card{
+    margin:20px;
+    padding:10px;
+    width:300px;
+}
+.bottom a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+.bottom{
+    display:flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
